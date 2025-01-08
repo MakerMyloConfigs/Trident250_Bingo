@@ -33,7 +33,7 @@
             "map": "T2",
             "index": 3,
             "tool_loaded": false,
-            "hub_loaded": false,
+            "hub_loaded": true,
             "status": "loading"
         },
         "leg4": {
